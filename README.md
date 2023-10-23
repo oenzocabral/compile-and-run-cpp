@@ -25,22 +25,30 @@ Writing the full compilation and execution commands in the terminal can be time-
 ## How to Use
 
 1. Clone this repository to your local machine:
-'''git clone https://github.com/oenzocabral/compile-and-run-cpp.git'''
+  '''
+  git clone https://github.com/oenzocabral/compile-and-run-cpp.git
+  '''
 
-2. Navigate to the repository folder:
-'''cd compile-and-run-cpp'''
+3. Navigate to the repository folder:
+  '''
+  cd compile-and-run-cpp
+  '''
 
 
-3. Choose the appropriate script for your platform:
+5. Choose the appropriate script for your platform:
 - For Linux and Mac: `compile_and_run_linux_mac.sh`
 - For Windows: `compile_and_run_windows.bat`
 
 4. Run the chosen script by providing your C++ source code file as a parameter:
-'''./compile_and_run_linux_mac.sh your_cpp_file.cpp'''
+  '''
+  ./compile_and_run_linux_mac.sh your_cpp_file.cpp
+  '''
 
 or 
 
-'''compile_and_run_windows.bat your_cpp_file.cpp'''
+  '''
+  compile_and_run_windows.bat your_cpp_file.cpp
+  '''
 
 5. If you prefer shorter script names, you can rename the chosen script file to `car.sh` for Linux and macOS, or `car.bat` for Windows, to make the commands more concise:
 
