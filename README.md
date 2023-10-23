@@ -54,9 +54,7 @@ compile_and_run_windows.bat your_cpp_file.cpp
 
 - For Linux and macOS:
   ```
-  mv compile_and_run_linux.sh car.sh
-  # OR
-  mv compile_and_run_mac.sh car.sh
+  mv compile_and_run_linux_mac.sh car.sh
   ```
 
 - For Windows:
